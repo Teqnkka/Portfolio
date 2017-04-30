@@ -1,0 +1,115 @@
+.navbar {
+  margin-bottom: 0;
+  background-color: #fff;
+  z-index: 9999;
+  border: 0;
+  font-size: 20px;
+  line-height: 1.42857143;
+  letter-spacing: 1px;
+  border-radius: 0;
+  font-family: 'Montserrat', serif;
+}
+
+.navbar li a, .navbar .navbar-brand {
+  color: #0066ff !important;
+}
+
+.navbar-nav li a:hover, .navbar-nav li.active a {
+  color: #fff !important;
+  background-color: #0066ff !important;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: transparent;
+  color: #0066ff !important;
+}
+
+h1 {
+  text-align: center;
+  margin: 50px 0px 50px 0px;
+}
+
+h3 {
+  text-align: left;
+  margin: 50px 0px 50px 0px;
+}
+
+h5 {
+  margin: auto;
+  padding: 14px 5px 5px 5px;
+}
+
+.photo{
+  border-radius: 50%;
+  background-image: url('https://scontent-bru2-1.xx.fbcdn.net/v/t1.0-9/12717714_1105907422775395_807699931510880345_n.jpg?oh=3656eaefc0e46304fc10997a78f02a0a&oe=5989D459');
+  width: 300px;
+  height: 300px;
+  background-position: 00px -60px;
+  background-size: cover;
+  margin: auto;
+}
+
+#section1 {
+  background-color: #0066ff;
+  color: #f0f0f0;
+  font-family: 'Montserrat', serif;
+}
+
+#section2  {
+  background-color: #474e5d;
+  color: #f0f0f0;
+  font-family: 'Montserrat', serif;
+}
+
+#section3  {
+  background-color: white;
+  color: #0066ff;
+  font-family: 'Montserrat', serif;
+  padding: 40px 40px 50px 40px;
+}
+
+.box  {
+  padding: 50px 40px 120px 40px;
+}
+
+.thumb {
+  color: #fff;
+  background-color: #646d82;
+  border: 0;
+  margin: 4.15% 4.15% 4.15% 4.15%;
+}
+
+thumbnail {
+  clip-path: inset(0px 0px 20px 0px);
+}
+
+.social a:link {
+    color: #646d82;
+}
+.social a:visited {
+    color: #474e5d;
+}
+.social a:hover {
+    color: #0066ff;
+}
+
+footer .glyphicon {
+  font-size: 30px;
+  color: #fff;
+  padding-top: 20px;
+
+}
+
+.foot {
+  padding: 40px 10px 40px 10px;
+}
+
+.foot a:link {
+    color: black;
+}
+.foot a:visited {
+    color: black;
+}
+.foot a:hover {
+    color: white;
+}
